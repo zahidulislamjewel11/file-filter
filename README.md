@@ -7,4 +7,5 @@ bash code to filter file, similar to .gitignore
 
 ./main.sh input.txt for current directory <br/>
 
-./main.sh ../ input.txt for parent directory <br/>```
+./main.sh ../ input.txt for parent directory <br/>
+```
