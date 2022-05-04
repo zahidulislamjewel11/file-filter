@@ -5,6 +5,6 @@ bash code to filter file, similar to .gitignore
 ```
 <script> <directory(optional)> <file(needed)> <br/>
 
-./main.sh input.txt` for current directory <br/>
+./main.sh input.txt for current directory <br/>
 
 ./main.sh ../ input.txt` for parent directory <br/>```
